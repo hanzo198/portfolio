@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1563931877 source:c:\users\andin\documents\homework c\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Perimeter.h"
+	"Area.h"
+	"Volume.h"
+
+1563931825 c:\users\andin\documents\homework c\cproject\perimeter.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1563932363 c:\users\andin\documents\homework c\cproject\area.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1563932363 c:\users\andin\documents\homework c\cproject\volume.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

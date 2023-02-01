@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561670637 source:c:\users\andin\documents\homework c\homework5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CircleCalculations.h"
+
+1561670367 c:\users\andin\documents\homework c\homework5\circlecalculations.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
